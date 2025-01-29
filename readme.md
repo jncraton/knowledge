@@ -1,21 +1,21 @@
-Ontology
-========
+Knowledge Graph
+===============
 
-A structured representation of knowledge in a domain
+![Example](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Conceptual_Diagram_-_Example.svg/319px-Conceptual_Diagram_-_Example.svg.png)
 
 Learning Outcomes
 -----------------
 
 After completing this lab, student will be able to:
 
-- Describe relationships between statements to form a knowledge grahp
+- Describe relationships between statements to form a knowledge graph
 - Represent a graph using graphviz
 - Build a small ontology covering a domain of interest
 
 Assignment
 ----------
 
-Select a domain of interest and create a small, graphical ontology demonstrating how entities in this domain are connected. Here very short example for publications:
+Select a domain of interest and create a small [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph) demonstrating how entities in this domain are connected. Here very short example for publications:
 
 ![example](https://github.com/user-attachments/assets/cc05f924-3355-44c0-b639-16f2bd75104a)
 
