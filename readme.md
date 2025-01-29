@@ -17,6 +17,7 @@ Assignment
 
 Select a domain of interest and create a small, graphical ontology demonstrating how entities in this domain are connected. Here very short example for publications:
 
+![example](https://github.com/user-attachments/assets/cc05f924-3355-44c0-b639-16f2bd75104a)
 
 You should use graphviz to document your relationships and build a graph. You may use graphviz via the CLI, any GUI you choose, or [free hosted web tools](https://dreampuf.github.io/GraphvizOnline/?engine=dot).
 
