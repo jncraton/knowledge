@@ -15,7 +15,7 @@ After completing this lab, student will be able to:
 Assignment
 ----------
 
-Select a domain of interest and create a small [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph) demonstrating how entities in this domain are connected. Here very short example for publications:
+Select a domain of interest and create a small [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph) demonstrating how entities in this domain are connected. Here short example for publications:
 
 ![example](https://github.com/user-attachments/assets/cc05f924-3355-44c0-b639-16f2bd75104a)
 
